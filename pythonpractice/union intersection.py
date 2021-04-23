@@ -1,9 +1,0 @@
-'''a={1,2,3,3,4}
-b={5,6,78,90}
-c=a.union([100,400,500])
-print(c)'''
-#intersection
-x={1,2,3,4,5}
-y={5,7,8,9}
-z=x.intersection(y)
-print(z)
